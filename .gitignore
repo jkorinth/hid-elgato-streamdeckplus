@@ -1,0 +1,10 @@
+/*.cmd
+/*.ko
+/*.mod*
+/*.o
+/.*.cmd
+/.*.o
+/.ccls-cache/
+/.clangd
+/Module.symvers
+/modules.order
